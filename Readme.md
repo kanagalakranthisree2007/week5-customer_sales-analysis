@@ -8,4 +8,4 @@ This project analyzes customer sales data to identify:
 - Best-selling products
 - Customer churn patterns (basic)
 
-The goal is to present recruiter‑friendly insights with clean code, visualizations, and reports.
+
